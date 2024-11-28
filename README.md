@@ -1,4 +1,5 @@
 Sales Performance Dashboard
+
 Overview
 This dashboard provides a comprehensive analysis of sales performance across various dimensions, including sales by country, time, product subcategory, and business line. The data is broken down into three main sections: Sales Overview, Time Insights, and Detailed Product Performance. These insights help identify trends, highlight key drivers of sales, and offer opportunities for improvement in specific regions, time periods, and product categories.
 
